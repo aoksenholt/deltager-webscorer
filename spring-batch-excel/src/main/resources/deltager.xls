@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table id="ctl00_MainContent_RadGrid1_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">OrderID</th><th scope="col">Etternavn</th><th scope="col">Fornavn</th><th scope="col">E-post adresse</th><th scope="col">Mobil</th><th scope="col">Påmelding til</th><th scope="col">Pris</th><th scope="col">Betalingsmetode</th><th scope="col">Bestilt</th><th scope="col">Betalt</th><th scope="col">Utbetalt</th><th scope="col">Klubb/bedrift/sted</th><th scope="col">Fødselsår - 4 siffer</th><th scope="col">Klasse</th><th scope="col">T-skjortestørrelse - XS, S, M, L eller XL</th><th scope="col">Startkontingent</th><th scope="col">Kondis-medlemsnummer</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td style="mso-number-format:0;">3697450</td><td>Mjelde</td><td>Kristi</td><td>Kristi.mjelde@gmail.com</td><td>45269627</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">600,00</td><td>Kredittkort</td><td>25.06.2016 08:57</td><td>25.06.2016 08:57</td><td>&nbsp;</td><td>Bergen utetrening</td><td>1973</td><td>K40-44 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3697269</td><td>Lystrup</td><td>Christine</td><td>christinelystrup@gmail.com</td><td>95871999</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">600,00</td><td>Kredittkort</td><td>24.06.2016 21:44</td><td>24.06.2016 21:44</td><td>&nbsp;</td><td>Bergen utetrening</td><td>1983</td><td>K20-39 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3695535</td><td>Carlsen</td><td>Trond Inge</td><td>trondingec@gmail.com</td><td>91653138</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">550,00</td><td>Kredittkort</td><td>23.06.2016 17:25</td><td>23.06.2016 17:25</td><td>27.06.2016</td><td>Rustad IL</td><td>1963</td><td>M50-54 år</td><td>L</td><td>Kondis-medlemmer</td><td>23367</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3692321</td><td>Melsom</td><td>Vilde Støle</td><td>vilde_melsom@hotmail.com</td><td>41642597</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">600,00</td><td>Kredittkort</td><td>21.06.2016 21:32</td><td>21.06.2016 21:32</td><td>27.06.2016</td><td>Odontologiforeningen i Bergen</td><td>1993</td><td>K20-39 år</td><td>s</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3687826</td><td>Hefte</td><td>Stein Kjetil</td><td>steinhefte@hotmail.com</td><td>90225758</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">550,00</td><td>Kredittkort</td><td>19.06.2016 19:59</td><td>19.06.2016 19:59</td><td>27.06.2016</td><td>Opptur Motbakkeklubb</td><td>1959</td><td>M55-59 år</td><td>M</td><td>Kondis-medlemmer</td><td>37441</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3687377</td><td>Rodal</td><td>Camilla</td><td>camilla.rodal@hioa.no</td><td>98000905</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">600,00</td><td>Kredittkort</td><td>19.06.2016 13:40</td><td>19.06.2016 13:40</td><td>27.06.2016</td><td>SkiLøperne</td><td>1970</td><td>K45-49 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3687361</td><td>Kringen</td><td>Helga</td><td>helga.kringen@gmail.com</td><td>97067971</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">550,00</td><td>Kredittkort</td><td>19.06.2016 13:24</td><td>19.06.2016 13:24</td><td>27.06.2016</td><td>SkiLøperne / RomerrikeUltraløperklubb</td><td>1971</td><td>K40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>36057</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3687344</td><td>Thorsvik</td><td>Elisabeth</td><td>elisathorsvik@hotmail.com</td><td>98831241</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">550,00</td><td>Kredittkort</td><td>19.06.2016 13:07</td><td>19.06.2016 13:07</td><td>27.06.2016</td><td>SkiLøperne</td><td>1977</td><td>K20-39 år</td><td>m</td><td>Kondis-medlemmer</td><td>66030</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3685874</td><td>Norder</td><td>Thomas</td><td>thnorder@gmail.com</td><td>91310951</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">600,00</td><td>Kredittkort</td><td>17.06.2016 20:32</td><td>17.06.2016 20:32</td><td>27.06.2016</td><td>Tønsberg</td><td>1998</td><td>M16-19 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3650707</td><td>Wilson</td><td>Matthew</td><td>matthewthomaswilson@hotmail.com</td><td>90549654</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>01.06.2016 22:16</td><td>01.06.2016 22:16</td><td>06.06.2016</td><td>Stavanger Sports and Social Club</td><td>1972</td><td>M40-44 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3650631</td><td>Berentsen</td><td>Fredrik</td><td>fredrikberentsen@msn.com</td><td>91561171</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>01.06.2016 21:57</td><td>01.06.2016 21:57</td><td>06.06.2016</td><td>BFG Bergen Løperklubb</td><td>1979</td><td>M20-39 år</td><td>L</td><td>Kondis-medlemmer</td><td>34929</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3650162</td><td>Roncoroni</td><td>Luca</td><td>LUCA@LRA.NO</td><td>93097574</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>01.06.2016 18:12</td><td>01.06.2016 18:12</td><td>06.06.2016</td><td>Civello Italia</td><td>1973</td><td>M40-44 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3648312</td><td>Svendal</td><td>Gro</td><td>gro.svendal@gmail.com</td><td>99702223</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>31.05.2016 23:51</td><td>31.05.2016 23:51</td><td>06.06.2016</td><td>Fjellgeitene</td><td>1970</td><td>K45-49 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3648046</td><td>Kolverud</td><td>Fredrik</td><td>Fredrik.kolverud@gmail.com</td><td>92035267</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>31.05.2016 22:24</td><td>31.05.2016 22:24</td><td>06.06.2016</td><td>Sk Vidar</td><td>1974</td><td>M40-44 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3647486</td><td>Bull</td><td>Ivar August</td><td>Ivaraugust@gmail.com</td><td>97147573</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>31.05.2016 19:35</td><td>31.05.2016 19:35</td><td>06.06.2016</td><td>Bergen Brannvesen</td><td>1992</td><td>M20-39 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3645215</td><td>Nordanger</td><td>Jørgen</td><td>jorgentn@hotmail.com</td><td>45255647</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>30.05.2016 21:37</td><td>30.05.2016 21:37</td><td>06.06.2016</td><td>Bergen Løpeklubb</td><td>1993</td><td>M20-39 år</td><td>S</td><td>Kondis-medlemmer</td><td>950303</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3645210</td><td>Nordanger</td><td>Bente</td><td>bente.h.nordanger@gmail.com</td><td>91688659</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>30.05.2016 21:37</td><td>30.05.2016 21:37</td><td>06.06.2016</td><td>Bergen løpeklubb</td><td>1959</td><td>K55-59 år</td><td>s</td><td>Kondis-medlemmer</td><td>69285</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3642601</td><td>Sagvolden</td><td>Erik</td><td>esagvolden@gmail.com</td><td>98843634</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>29.05.2016 20:46</td><td>29.05.2016 20:46</td><td>06.06.2016</td><td>Sportsklubben Vidar</td><td>1988</td><td>M20-39 år</td><td>M</td><td>Kondis-medlemmer</td><td>989898</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3641986</td><td>Pedersen</td><td>Henning</td><td>hezpez1971@gmail.com</td><td>90125637</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>29.05.2016 12:42</td><td>29.05.2016 12:42</td><td>06.06.2016</td><td>Moss skiklubb</td><td>1971</td><td>M45-49 år</td><td>XL</td><td>Kondis-medlemmer</td><td>27338</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3639317</td><td>Furuseth</td><td>Terje</td><td>terje@furuseth.com</td><td>94436660</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>27.05.2016 09:49</td><td>27.05.2016 09:49</td><td>06.06.2016</td><td>Team Furuseth</td><td>1972</td><td>M40-44 år</td><td>L</td><td>Kondis-medlemmer</td><td>69198</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3628252</td><td>Næss</td><td>Øystein Jack</td><td>Jacknaess@gmail.com</td><td>91346947</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>23.05.2016 00:08</td><td>23.05.2016 00:08</td><td>30.05.2016</td><td>Romerike ultra</td><td>1971</td><td>M45-49 år</td><td>M</td><td>Kondis-medlemmer</td><td>68063</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3627847</td><td>Erdal</td><td>Børge</td><td>borge.erdal@gmail.com</td><td>90016704</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>22.05.2016 21:27</td><td>22.05.2016 21:27</td><td>30.05.2016</td><td>Uteseksjonen United</td><td>1964</td><td>M50-54 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3626520</td><td>Igesund</td><td>Cecilie Longva</td><td>cecilie.igesund@gmail.com</td><td>92413097</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>21.05.2016 22:09</td><td>21.05.2016 22:09</td><td>30.05.2016</td><td>Romerike Ultraløperklubb</td><td>1976</td><td>K20-39 år</td><td>s</td><td>Kondis-medlemmer</td><td>68178</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3623831</td><td>Pettersen</td><td>Marianne</td><td>mariaespepet@gmail.com</td><td>48008384</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>20.05.2016 09:12</td><td>20.05.2016 09:12</td><td>30.05.2016</td><td>Elixia Jessheim</td><td>1979</td><td>K20-39 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3623835</td><td>Sæther</td><td>Stine Cathrine</td><td>scs.90@hotmail.com</td><td>48132334</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>20.05.2016 09:11</td><td>20.05.2016 09:11</td><td>30.05.2016</td><td>Jessheim</td><td>080290</td><td>K20-39 år</td><td>m</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3622705</td><td>Falk</td><td>Therese</td><td>theresefalk8@hotmail.com</td><td>91521975</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>19.05.2016 17:41</td><td>19.05.2016 17:41</td><td>23.05.2016</td><td>Romerike Ultraløperklubb</td><td>1975</td><td>K40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>34482</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3621620</td><td>Kasper</td><td>Maximilian</td><td>kaspermax.93@gmail.com</td><td>0421949373993</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>19.05.2016 10:45</td><td>19.05.2016 10:45</td><td>23.05.2016</td><td>TSV Seeg</td><td>1993</td><td>M20-39 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3600730</td><td>Skandsen</td><td>Gunnar</td><td>gunnar.skandsen@gmail.com</td><td>95865725</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>08.05.2016 19:59</td><td>08.05.2016 19:59</td><td>18.05.2016</td><td>Noteam</td><td>1956</td><td>M60-64 år</td><td>S</td><td>Kondis-medlemmer</td><td>21384</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3600091</td><td>Solem</td><td>Nils-Fredrik</td><td>nils.f.solem@gmail.com</td><td>90593377</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>07.05.2016 20:32</td><td>07.05.2016 20:32</td><td>18.05.2016</td><td>DNT Ung</td><td>1995</td><td>M20-39 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3597590</td><td>Helgesen</td><td>Jan</td><td>jan.helgesen@online.no</td><td>97661255</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>05.05.2016 23:05</td><td>05.05.2016 23:05</td><td>09.05.2016</td><td>Oslo</td><td>1974</td><td>M40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>099010</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3592148</td><td>Nævdal</td><td>Håkon</td><td>hkonsn@hotmail.com</td><td>95097008</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>02.05.2016 22:39</td><td>02.05.2016 22:39</td><td>09.05.2016</td><td>Bergen</td><td>1991</td><td>M20-39 år</td><td>XL</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3589823</td><td>Paivarinne</td><td>Tero</td><td>tmpaivarinne@gmail.com</td><td>92455541</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>01.05.2016 19:35</td><td>01.05.2016 19:35</td><td>09.05.2016</td><td>Sportsklubben Vidar</td><td>1975</td><td>M40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>565656</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3589221</td><td>Hestmann</td><td>Olav</td><td>hestmann.olav@gmail.com</td><td>94206078</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>01.05.2016 10:56</td><td>01.05.2016 10:56</td><td>09.05.2016</td><td>Robustas AS</td><td>1991</td><td>M20-39 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3530773</td><td>Fjeldheim</td><td>Trygve</td><td>trygve.fjeldheim@gmail.com</td><td>+46709322003</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>28.03.2016 21:49</td><td>28.03.2016 21:49</td><td>04.04.2016</td><td>TFI Racing</td><td>1975</td><td>M40-44 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3529556</td><td>Kongsgård</td><td>Sondre</td><td>sondre.kongsgaard@gmail.com</td><td>90299484</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>27.03.2016 20:33</td><td>27.03.2016 20:33</td><td>04.04.2016</td><td>NTNUI</td><td>1993</td><td>M20-39 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3521725</td><td>Urdal</td><td>Håkon</td><td>urdalh@msn.com</td><td>91150534</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>19.03.2016 00:10</td><td>19.03.2016 00:10</td><td>29.03.2016</td><td>Eurofins Moss</td><td>1980</td><td>M20-39 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3514310</td><td>Stålstrøm</td><td>Bibbi</td><td>Bibbi.stalstrom@norautron.com</td><td>40875618</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>15.03.2016 20:24</td><td>15.03.2016 20:24</td><td>21.03.2016</td><td>Team Giant</td><td>1975</td><td>K40-44 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3514310</td><td>Stålstrøm</td><td>Rune</td><td>Rune.kristian.stalstrom@km.kongsberg.com</td><td>91513347</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>15.03.2016 20:24</td><td>15.03.2016 20:24</td><td>21.03.2016</td><td>Team Giant</td><td>1965</td><td>M50-54 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3514242</td><td>Gran</td><td>Truls</td><td>truls@sykkel.com</td><td>90048800</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>15.03.2016 19:40</td><td>15.03.2016 19:40</td><td>21.03.2016</td><td>www.sykkel.no</td><td>1976</td><td>M40-44 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3514211</td><td>Lundsør</td><td>Jørn Egil</td><td>sykkel@sykkel.com</td><td>91542425</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>15.03.2016 19:24</td><td>15.03.2016 19:24</td><td>21.03.2016</td><td>www.sykkel.no</td><td>1972</td><td>M40-44 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3512052</td><td>Vestøl</td><td>Svein</td><td>svein.vestol@icloud.com</td><td>41307466</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>14.03.2016 20:11</td><td>14.03.2016 20:11</td><td>21.03.2016</td><td>Gjerstad IL</td><td>1974</td><td>M40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>24195</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3512052</td><td>Wilson</td><td>Thomas</td><td>thomas@wilsoneiendom.no</td><td>91806950</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>14.03.2016 20:11</td><td>14.03.2016 20:11</td><td>21.03.2016</td><td>Grimstad</td><td>1972</td><td>M40-44 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3512052</td><td>Wilson</td><td>Veronika</td><td>veronika.wilson@gmail.com</td><td>97191291</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>14.03.2016 20:11</td><td>14.03.2016 20:11</td><td>21.03.2016</td><td>Grimstad</td><td>1976</td><td>K40-44 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3496509</td><td>Moe</td><td>Marianne</td><td>mamo3@online.no</td><td>47603915</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>05.03.2016 10:05</td><td>05.03.2016 10:05</td><td>14.03.2016</td><td>Romerike Ultraløperklubb</td><td>1968</td><td>K45-49 år</td><td>XS</td><td>Kondis-medlemmer</td><td>26139</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3494209</td><td>Voss</td><td>Claus</td><td>vhossa@gmail.com</td><td>+4915756605591</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 19:01</td><td>03.03.2016 19:01</td><td>07.03.2016</td><td>TsV Betzingen</td><td>1958</td><td>M55-59 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3494178</td><td>Dahlseng</td><td>Torunn Årthun</td><td>torunndah@hotmail.com</td><td>48287638</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 18:37</td><td>03.03.2016 18:37</td><td>07.03.2016</td><td>helse-fonna</td><td>1962</td><td>K50-54 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3494046</td><td>Risa</td><td>Svein Ove</td><td>sveinorisa@hotmail.com</td><td>90022391</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 17:25</td><td>03.03.2016 17:25</td><td>07.03.2016</td><td>Undheim IL</td><td>1974</td><td>M40-44 år</td><td>s</td><td>Kondis-medlemmer</td><td>22331</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493976</td><td>Johansen</td><td>Frode</td><td>frodejo69@gmail.com</td><td>90767332</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 16:33</td><td>03.03.2016 16:33</td><td>07.03.2016</td><td>Bergen Løpeklubb</td><td>1969</td><td>M45-49 år</td><td>s</td><td>Kondis-medlemmer</td><td>26186</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493875</td><td>Tennebekk</td><td>Madeleine</td><td>m.tennebekk@gmail.com</td><td>90063607</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 15:34</td><td>03.03.2016 15:34</td><td>07.03.2016</td><td>EY BIL</td><td>1989</td><td>K20-39 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493837</td><td>Sørheim</td><td>Dan Jørgen</td><td>djso@live.no</td><td>93007183</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 15:19</td><td>03.03.2016 15:19</td><td>07.03.2016</td><td>BTC</td><td>1983</td><td>M20-39 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493786</td><td>Røyrane</td><td>Karianne</td><td>karianne.royrane@gmail.com</td><td>47626926</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 14:52</td><td>03.03.2016 14:52</td><td>07.03.2016</td><td>Ingen</td><td>1989</td><td>K20-39 år</td><td>S</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493768</td><td>Puaschitz</td><td>Nathalie</td><td>n.puaschitz@gmail.com</td><td>93045872</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 14:45</td><td>03.03.2016 14:45</td><td>07.03.2016</td><td>Bergen Løpeklubb</td><td>1981</td><td>K20-39 år</td><td>XS</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493718</td><td>Rike</td><td>Eva Midtgard</td><td>Eva.rike@rolls-royce.com</td><td>92821736</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 14:22</td><td>03.03.2016 14:22</td><td>07.03.2016</td><td>TT IL</td><td>1972</td><td>K40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>36654</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493656</td><td>Von Mühleisen</td><td>Maria</td><td>mariamuhleisen@gmail.com</td><td>41274634</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 14:00</td><td>03.03.2016 14:00</td><td>07.03.2016</td><td>Mühleisen Resource Group - MRG A/S</td><td>1995</td><td>K20-39 år</td><td>M</td><td>Kondis-medlemmer</td><td>952101</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493603</td><td>Von Mühleisen</td><td>Lothar</td><td>lothar.muhleisen@gmail.com</td><td>91864063</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 13:34</td><td>03.03.2016 13:34</td><td>07.03.2016</td><td>Mühleisen Resource Group - MRG A/S</td><td>1965</td><td>M50-54 år</td><td>XL</td><td>Kondis-medlemmer</td><td>91864063</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493496</td><td>Nordahl</td><td>Ingulf</td><td>ingulf.nordahl@gmail.com</td><td>40400749</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:53</td><td>03.03.2016 12:53</td><td>07.03.2016</td><td>IL Gular</td><td>1970</td><td>M45-49 år</td><td>L</td><td>Kondis-medlemmer</td><td>6908</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493430</td><td>Tubaas</td><td>Peter</td><td>peter.tubaas@gmail.com</td><td>91705531</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:28</td><td>03.03.2016 12:28</td><td>07.03.2016</td><td>Stord</td><td>1972</td><td>M40-44 år</td><td>M</td><td>Kondis-medlemmer</td><td>21737</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493429</td><td>Wiik</td><td>Julie</td><td>juliewiik85@gmail.com</td><td>97537082</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:28</td><td>03.03.2016 12:28</td><td>07.03.2016</td><td>Tjøme Løpeklubb</td><td>1985</td><td>K20-39 år</td><td>M</td><td>Kondis-medlemmer</td><td>35852</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493396</td><td>Bringedal</td><td>Anne Britt</td><td>annebringedal@me.com</td><td>95281465</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:12</td><td>03.03.2016 12:12</td><td>07.03.2016</td><td>Romerike Ultraløperklubb</td><td>1963</td><td>K50-54 år</td><td>s</td><td>Kondis-medlemmer</td><td>33179</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493391</td><td>Meisingset</td><td>Rune Kenneth</td><td>runekm@gmail.com</td><td>47053337</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:10</td><td>03.03.2016 12:10</td><td>07.03.2016</td><td>Holmestrand</td><td>1975</td><td>M40-44 år</td><td>L</td><td>Kondis-medlemmer</td><td>29593</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493391</td><td>Gran</td><td>Randi Helen</td><td>randihelen.gran@gmail.com</td><td>97169828</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:10</td><td>03.03.2016 12:10</td><td>07.03.2016</td><td>Holmestrand</td><td>1977</td><td>K20-39 år</td><td>M</td><td>Kondis-medlemmer</td><td>30439</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493375</td><td>Søyland</td><td>Thor-Andre</td><td>tassan86@hotmail.com</td><td>40644452</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 12:05</td><td>03.03.2016 12:05</td><td>07.03.2016</td><td>Bergen løpeklubb</td><td>1986</td><td>M20-39 år</td><td>M</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493378</td><td>Bjørnstad</td><td>Frederik</td><td>frederikrocks@gmail.com</td><td>95118459</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 12:05</td><td>03.03.2016 12:05</td><td>07.03.2016</td><td>Sarpsborg</td><td>1976</td><td>M40-44 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493369</td><td>Andersen</td><td>Kjell</td><td>kjell.andersen@bluemail.ch</td><td>+41789050701</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 12:04</td><td>03.03.2016 12:04</td><td>07.03.2016</td><td>SC Maloja</td><td>1964</td><td>M50-54 år</td><td>L</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493369</td><td>Ganzoni</td><td>Cristina</td><td>cristina.ganzoni@gmail.com</td><td>+41799000771</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 12:04</td><td>03.03.2016 12:04</td><td>07.03.2016</td><td>SC Maloja</td><td>1975</td><td>K40-44 år</td><td>s</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493372</td><td>Jacobsen</td><td>Frank Andre</td><td>frank.andre.jacobsen@gmail.com</td><td>98238530</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>03.03.2016 12:03</td><td>03.03.2016 12:03</td><td>07.03.2016</td><td>AGA klubben</td><td>1966</td><td>M50-54 år</td><td>S</td><td>Kondis-medlemmer</td><td>27055</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3493374</td><td>Rasmussen</td><td>Joann Janey</td><td>joannjr@getmail.no</td><td>47261979</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">400,00</td><td>Kredittkort</td><td>03.03.2016 12:03</td><td>03.03.2016 12:03</td><td>07.03.2016</td><td>Spirit Friidrett</td><td>1979</td><td>K20-39 år</td><td>XL</td><td>Ordinær (400 kr)</td><td>&nbsp;</td>
+	</tr><tr>
+		<td style="mso-number-format:0;">3492476</td><td>Gilberg</td><td>Runar</td><td>runar.gilberg@kondis.no</td><td>48258496</td><td>Rallarvegsløpet</td><td style="mso-number-format:0\.00;">350,00</td><td>Kredittkort</td><td>02.03.2016 21:30</td><td>02.03.2016 21:30</td><td>07.03.2016</td><td>Sportsklubben Vidar</td><td>1965</td><td>M50-54 år</td><td>M</td><td>Kondis-medlemmer</td><td>654321</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
