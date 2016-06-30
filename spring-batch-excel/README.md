@@ -1,3 +1,4 @@
+deltager-webscorer is based on https://github.com/mdeinum/spring-batch-extensions
 # spring-batch-excel
 
 Spring Batch extension which contains `ItemReader` implementations for Excel. Support for both [JExcel][1] and [Apache POI][2] is available. Simple xls documents can be read with both implementations, however for reading the newer xlsx format [Apache POI][2] is required.
