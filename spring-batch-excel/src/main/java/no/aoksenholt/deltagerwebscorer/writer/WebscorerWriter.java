@@ -7,7 +7,6 @@ import java.util.List;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.poi.ss.usermodel.Cell;
-import org.apache.poi.ss.usermodel.FormulaEvaluator;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFCellStyle;
 import org.apache.poi.xssf.usermodel.XSSFCreationHelper;
@@ -25,7 +24,6 @@ public class WebscorerWriter implements ItemWriter<Webscorer> {
     private XSSFSheet sheet;
     private XSSFCellStyle cellStyle;
     private String outfilename;
-    private FormulaEvaluator evaluator;
 
     private String[] headers = { "First name", "Last name", "Team name", "Gender", "Age", "Distance", "Category", "Info 1", "Info 2", "Start time", "Bib" };
 
@@ -37,7 +35,6 @@ public class WebscorerWriter implements ItemWriter<Webscorer> {
 	XSSFCreationHelper createHelper = workbook.getCreationHelper();
 	cellStyle = workbook.createCellStyle();
 	cellStyle.setDataFormat(createHelper.createDataFormat().getFormat("hh:MM:ss"));
-	evaluator = workbook.getCreationHelper().createFormulaEvaluator();
 	initWorkbook();
     }
 
