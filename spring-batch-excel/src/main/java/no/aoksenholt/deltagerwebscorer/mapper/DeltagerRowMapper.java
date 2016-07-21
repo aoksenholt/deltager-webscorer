@@ -24,6 +24,8 @@ public class DeltagerRowMapper implements RowMapper<Deltager> {
 	deltager.setTskjorte(rowSet.getColumnValue(14));
 	deltager.setKondis(fixNumber(rowSet.getColumnValue(16)));
 
+	log.info("Deltager " + rowSet.getCurrentRowIndex() + ", " + deltager.getEtternavn() + ", " + deltager.getFornavn());
+
 	return deltager;
     }
 

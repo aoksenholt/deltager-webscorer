@@ -1,3 +1,5 @@
+deltager-webscorer is based on https://github.com/mdeinum/spring-batch-extensions
+
 Spring Batch Extensions
 =============================
 
